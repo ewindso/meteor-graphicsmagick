@@ -1,0 +1,9 @@
+{
+    "name": "graphicsmagick",
+    "description": "Meteor smart package for GraphicsMagick node.js",
+    "homepage": "https://github.com/ewindso/meteor-graphicsmagick",
+    "author": "Elijah Windsor",
+    "version": "1.12.2",
+    "git": "https://github.com/ewindso/meteor-graphicsmagick.git"
+} 
+
